@@ -13,7 +13,7 @@ In the process of creating this project, I learned the following skills and conc
 - Creating a an app with SwiftUI using MVVM architecture
 - Implementing MapKit into an application
 - Create custom UI Views and adding animations
-- 
+- Adapting an app for iPad, landscape, and Dark Mode
 
 ## Credits
 
